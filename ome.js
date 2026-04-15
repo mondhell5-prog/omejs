@@ -1,5 +1,5 @@
 (() => {
-    const apiKey = 'API_KEY';
+    const apiKey = '940678d49f005b';
     let currentIP = null;
 
     // Create floating UI box once
